@@ -1,0 +1,1 @@
+the following script will list all Amazon snapshot ID that are not assign to an AMI - deleting the snapshots will reduce storage and save you money 
